@@ -1,0 +1,1 @@
+command = "brili 1212 < {filename}; python task.py < {filename} | brili 1212 < {filename}"
